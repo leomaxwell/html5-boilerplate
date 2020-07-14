@@ -8,5 +8,5 @@ dist
 # Ignore file
 /credentials.py
 
-# Ignore folder
-text/
+# Ignore txt files inside of folder
+text/*.txt
